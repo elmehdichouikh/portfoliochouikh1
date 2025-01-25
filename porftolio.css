@@ -1,0 +1,12 @@
+.pdf-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin-left: 100px;
+}
+iframe {
+    width: 80%; 
+    height: 80vh; 
+    border: none;
+}
